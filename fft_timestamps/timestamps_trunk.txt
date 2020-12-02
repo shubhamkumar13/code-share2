@@ -1,0 +1,3219 @@
+<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 21
+!request start time >> Wed Dec  2 04:00:25 2020
+request end time >> Wed Dec  2 04:00:25 2020
+request microsecond diff >> 0
+<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 6764
+$<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 6669
+request start time >> Wed Dec  2 04:00:25 2020
+request end time >> Wed Dec  2 04:00:25 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 3393
+!<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 9532
+$<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 9453
+request start time >> Wed Dec  2 04:00:25 2020
+request end time >> Wed Dec  2 04:00:25 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 4555
+!<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 7469
+$<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 9628
+request start time >> Wed Dec  2 04:00:25 2020
+request end time >> Wed Dec  2 04:00:25 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 4543
+!<>collection start time >> Wed Dec  2 04:00:25 2020
+collection end timw >> Wed Dec  2 04:00:25 2020
+collection microsecond diff >> 8752
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 9462
+request start time >> Wed Dec  2 04:00:26 2020
+request end time >> Wed Dec  2 04:00:26 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 4440
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 7642
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 9895
+<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 4
+request start time >> Wed Dec  2 04:00:26 2020
+request end time >> Wed Dec  2 04:00:26 2020
+request microsecond diff >> 0
+$!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3612
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3442
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 4420
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3791
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3507
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 4817
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 5073
+request start time >> Wed Dec  2 04:00:26 2020
+request end time >> Wed Dec  2 04:00:26 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 2327
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3932
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3609
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3758
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3479
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 2528
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3724
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3858
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3724
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3633
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 4737
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 4780
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 4624
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 5111
+request start time >> Wed Dec  2 04:00:26 2020
+request end time >> Wed Dec  2 04:00:26 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 1676
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 3481
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 4061
+!<>collection start time >> Wed Dec  2 04:00:26 2020
+collection end timw >> Wed Dec  2 04:00:26 2020
+collection microsecond diff >> 4178
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 4324
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3922
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 4053
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3929
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 4917
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 5381
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 4248
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3577
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3867
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3592
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3763
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3565
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3651
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3487
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3609
+request start time >> Wed Dec  2 04:00:27 2020
+request end time >> Wed Dec  2 04:00:27 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 1673
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3574
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 5257
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 4651
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3477
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3578
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3458
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3619
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3480
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3715
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3443
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3564
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3477
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3766
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 5331
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 4685
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3575
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3464
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3599
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3621
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3480
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3616
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3466
+request start time >> Wed Dec  2 04:00:27 2020
+request end time >> Wed Dec  2 04:00:27 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 1674
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3458
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3426
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 4423
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 4411
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3478
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3430
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 6306
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 4019
+!<>collection start time >> Wed Dec  2 04:00:27 2020
+collection end timw >> Wed Dec  2 04:00:27 2020
+collection microsecond diff >> 3559
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 1844674$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3472
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3634
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3468
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3620
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3625
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3467
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3607
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3586
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3457
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3580
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3458
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3638
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3479
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3448
+request start time >> Wed Dec  2 04:00:28 2020
+request end time >> Wed Dec  2 04:00:28 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 1657
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3359
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3448
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3436
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3430
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3443
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3461
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3461
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3481
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3599
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3500
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3498
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3500
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3497
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3512
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3500
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3499
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3479
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3437
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3445
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3452
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3468
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3467
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3474
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3461
+request start time >> Wed Dec  2 04:00:28 2020
+request end time >> Wed Dec  2 04:00:28 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 1658
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3359
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3415
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3456
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3458
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3435
+!<>collection start time >> Wed Dec  2 04:00:28 2020
+collection end timw >> Wed Dec  2 04:00:28 2020
+collection microsecond diff >> 3478
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3471
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3443
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3549
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3451
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3462
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3477
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3456
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3474
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3468
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3468
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3442
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3438
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3464
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3483
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3463
+request start time >> Wed Dec  2 04:00:29 2020
+request end time >> Wed Dec  2 04:00:29 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 1663
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3336
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3477
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3497
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3450
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3501
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3479
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3491
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3505
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3521
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3497
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3496
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3482
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3489
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3499
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3497
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3474
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3487
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3525
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3460
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3475
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3461
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3461
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3448
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3458
+request start time >> Wed Dec  2 04:00:29 2020
+request end time >> Wed Dec  2 04:00:29 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 1656
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3354
+!<>collection start time >> Wed Dec  2 04:00:29 2020
+collection end timw >> Wed Dec  2 04:00:29 2020
+collection microsecond diff >> 3451
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3429
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3441
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3496
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3439
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3486
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3464
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3619
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3501
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3490
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3490
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3496
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3493
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3501
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3494
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3497
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3474
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3458
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3455
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3454
+request start time >> Wed Dec  2 04:00:30 2020
+request end time >> Wed Dec  2 04:00:30 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 1671
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3355
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3399
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3457
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3444
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3514
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3504
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3479
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3480
+!<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3603
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3506
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3495
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3460
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3458
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3474
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3472
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3459
+$<>collection start time >> Wed Dec  2 04:00:30 2020
+collection end timw >> Wed Dec  2 04:00:30 2020
+collection microsecond diff >> 3483
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3458
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3468
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3487
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3472
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3480
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3451
+request start time >> Wed Dec  2 04:00:31 2020
+request end time >> Wed Dec  2 04:00:31 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 1670
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3348
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3397
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3421
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3474
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3511
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3481
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3525
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3498
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3624
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3503
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3473
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3457
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3513
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3455
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3448
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3473
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3477
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3459
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3475
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3476
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3493
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3471
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3444
+request start time >> Wed Dec  2 04:00:31 2020
+request end time >> Wed Dec  2 04:00:31 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 1654
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3349
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3454
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3416
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3472
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3453
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3480
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3538
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3514
+!<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3585
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3509
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3517
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3518
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3511
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3509
+$<>collection start time >> Wed Dec  2 04:00:31 2020
+collection end timw >> Wed Dec  2 04:00:31 2020
+collection microsecond diff >> 3500
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3485
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3506
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3495
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3462
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3475
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3461
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3474
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3463
+request start time >> Wed Dec  2 04:00:32 2020
+request end time >> Wed Dec  2 04:00:32 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 1675
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3349
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3467
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3504
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3500
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3527
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3504
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3547
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3569
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3593
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3529
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3479
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3494
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3476
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3475
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3506
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3464
+request start time >> Wed Dec  2 04:00:32 2020
+request end time >> Wed Dec  2 04:00:32 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 1674
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3359
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3570
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3613
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3623
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3571
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3573
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3608
+!<>collection start time >> Wed Dec  2 04:00:32 2020
+collection end timw >> Wed Dec  2 04:00:32 2020
+collection microsecond diff >> 3661
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3796
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3513
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3595
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3507
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3514
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3562
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3525
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3488
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3496
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3502
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3490
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3489
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3451
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3601
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3514
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3644
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3588
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3509
+request start time >> Wed Dec  2 04:00:33 2020
+request end time >> Wed Dec  2 04:00:33 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 1675
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3402
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3677
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3716
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3714
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3626
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3703
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3730
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3753
+!<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3808
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3603
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3631
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3603
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3567
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3563
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3593
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3589
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3609
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3581
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 4484
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3600
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3665
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3537
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3632
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3528
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3554
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3649
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3676
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3650
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 3560
+request start time >> Wed Dec  2 04:00:33 2020
+request end time >> Wed Dec  2 04:00:33 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:33 2020
+collection end timw >> Wed Dec  2 04:00:33 2020
+collection microsecond diff >> 1667
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3490
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3709
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3774
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3811
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3752
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3749
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3887
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3827
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3902
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3731
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3739
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3626
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3695
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3674
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3624
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3610
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3573
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3582
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3567
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3594
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3471
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3544
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3504
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3646
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3556
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3563
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3580
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3546
+request start time >> Wed Dec  2 04:00:34 2020
+request end time >> Wed Dec  2 04:00:34 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 1662
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3426
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3818
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3828
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3834
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3746
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3780
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3824
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3787
+!<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3839
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3654
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3620
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3609
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3532
+$<>collection start time >> Wed Dec  2 04:00:34 2020
+collection end timw >> Wed Dec  2 04:00:34 2020
+collection microsecond diff >> 3512
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3570
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3531
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3571
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3565
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3525
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3520
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3521
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3462
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3498
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3456
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3457
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3506
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3526
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3530
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3482
+request start time >> Wed Dec  2 04:00:35 2020
+request end time >> Wed Dec  2 04:00:35 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 1676
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3553
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3864
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3885
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3877
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3795
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3651
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3652
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3637
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3658
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3548
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3519
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3510
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3525
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3510
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3514
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3474
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3467
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3494
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3495
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3505
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3529
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3518
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3470
+request start time >> Wed Dec  2 04:00:35 2020
+request end time >> Wed Dec  2 04:00:35 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 1657
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3457
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3909
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3988
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3945
+!<>collection start time >> Wed Dec  2 04:00:35 2020
+collection end timw >> Wed Dec  2 04:00:35 2020
+collection microsecond diff >> 3652
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3665
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3610
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3650
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3719
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3847
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3537
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3544
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3520
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 4122
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3538
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3631
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3504
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3480
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3471
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3476
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3496
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 1762
+request start time >> Wed Dec  2 04:00:36 2020
+request end time >> Wed Dec  2 04:00:36 2020
+request microsecond diff >> 1
+$!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 6361
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 7428
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 8425
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 7485
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 7322
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 7041
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 8056
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 7185
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 7123
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 6909
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 7117
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 6848
+<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 4
+$$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3458
+request start time >> Wed Dec  2 04:00:36 2020
+request end time >> Wed Dec  2 04:00:36 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 1679
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3468
+!<>collection start time >> Wed Dec  2 04:00:36 2020
+collection end timw >> Wed Dec  2 04:00:36 2020
+collection microsecond diff >> 3639
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3515
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3473
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 4485
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 4070
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3498
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3499
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3487
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 2325
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3677
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3717
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3669
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3626
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3663
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3510
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3814
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3644
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3784
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3524
+request start time >> Wed Dec  2 04:00:37 2020
+request end time >> Wed Dec  2 04:00:37 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 1862
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 4664
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3762
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 4177
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 4178
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3990
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3877
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3779
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3803
+!<>collection start time >> Wed Dec  2 04:00:37 2020
+collection end timw >> Wed Dec  2 04:00:37 2020
+collection microsecond diff >> 3860
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3692
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3637
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 4082
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 4894
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 5121
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 5294
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 5354
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3914
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3458
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3458
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3443
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3442
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3458
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3461
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3477
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3490
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3498
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3933
+request start time >> Wed Dec  2 04:00:38 2020
+request end time >> Wed Dec  2 04:00:38 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 2678
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 5234
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3479
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3585
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3719
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3584
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 4236
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 4313
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3624
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3623
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3514
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3516
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3513
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3495
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 4732
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 5763
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 4779
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3485
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3490
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3444
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 4311
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3754
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3460
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3462
+request start time >> Wed Dec  2 04:00:38 2020
+request end time >> Wed Dec  2 04:00:38 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 1658
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3350
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3655
+!<>collection start time >> Wed Dec  2 04:00:38 2020
+collection end timw >> Wed Dec  2 04:00:38 2020
+collection microsecond diff >> 3522
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3512
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3525
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3477
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3532
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3564
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3674
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3803
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3468
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3540
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3456
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3475
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3515
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3482
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3483
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3449
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3460
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3468
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3485
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3472
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3463
+request start time >> Wed Dec  2 04:00:39 2020
+request end time >> Wed Dec  2 04:00:39 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 1658
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3353
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3389
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3433
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3450
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3511
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3463
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3501
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3522
+!<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3580
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3501
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3512
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3502
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3490
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3479
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3452
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3454
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3438
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3434
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3460
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3498
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3471
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3472
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3468
+$<>collection start time >> Wed Dec  2 04:00:39 2020
+collection end timw >> Wed Dec  2 04:00:39 2020
+collection microsecond diff >> 3472
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3472
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3479
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3461
+request start time >> Wed Dec  2 04:00:40 2020
+request end time >> Wed Dec  2 04:00:40 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 1678
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3347
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3406
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3417
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3463
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3527
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3470
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3486
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3487
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3576
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3529
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3515
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3514
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3490
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 4901
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3495
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3479
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3479
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3474
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3479
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3487
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3475
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3768
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3487
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3466
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3475
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3473
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3450
+request start time >> Wed Dec  2 04:00:40 2020
+request end time >> Wed Dec  2 04:00:40 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 1655
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3357
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3459
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3477
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3581
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3537
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3474
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3520
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3506
+!<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3572
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3462
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3467
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3462
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3469
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3477
+$<>collection start time >> Wed Dec  2 04:00:40 2020
+collection end timw >> Wed Dec  2 04:00:40 2020
+collection microsecond diff >> 3471
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3482
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3468
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3464
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3459
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3473
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3451
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3473
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3485
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3473
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3462
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3497
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3490
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3453
+request start time >> Wed Dec  2 04:00:41 2020
+request end time >> Wed Dec  2 04:00:41 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 1674
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3348
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3401
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3431
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3508
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3498
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3484
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3480
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3505
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3574
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3497
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3512
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3498
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3485
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3467
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3472
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3482
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3450
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3452
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3462
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3467
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3482
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3464
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3507
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3489
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3456
+request start time >> Wed Dec  2 04:00:41 2020
+request end time >> Wed Dec  2 04:00:41 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 1670
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3351
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3453
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3436
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3494
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3527
+!<>collection start time >> Wed Dec  2 04:00:41 2020
+collection end timw >> Wed Dec  2 04:00:41 2020
+collection microsecond diff >> 3473
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3513
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3514
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3573
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3872
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 4530
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3513
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3507
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3485
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3472
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3499
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3497
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3772
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3487
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3510
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3488
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3510
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3456
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3465
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3450
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3467
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3447
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3462
+request start time >> Wed Dec  2 04:00:42 2020
+request end time >> Wed Dec  2 04:00:42 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 1676
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3365
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3493
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3472
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3529
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3543
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3514
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3517
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3527
+!<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3550
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3464
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3499
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3452
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3455
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3487
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3479
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3473
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3474
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3477
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3476
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3483
+$<>collection start time >> Wed Dec  2 04:00:42 2020
+collection end timw >> Wed Dec  2 04:00:42 2020
+collection microsecond diff >> 3476
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3464
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3489
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3483
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3483
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3453
+request start time >> Wed Dec  2 04:00:43 2020
+request end time >> Wed Dec  2 04:00:43 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 1671
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3354
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3505
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3546
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3569
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3531
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3520
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3533
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3586
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3673
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3504
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3534
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3508
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3483
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3519
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3511
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3484
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3507
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3513
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3506
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3464
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3463
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3502
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3607
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3556
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3534
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3497
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3501
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3531
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3519
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3502
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3438
+request start time >> Wed Dec  2 04:00:43 2020
+request end time >> Wed Dec  2 04:00:43 2020
+request microsecond diff >> 1
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 1658
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3406
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3589
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3603
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3650
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3683
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 4634
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3924
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3693
+!<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3698
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3529
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3580
+$<>collection start time >> Wed Dec  2 04:00:43 2020
+collection end timw >> Wed Dec  2 04:00:43 2020
+collection microsecond diff >> 3552
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3544
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3612
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3892
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3604
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3618
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3596
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3586
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3544
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3626
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3575
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3589
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3565
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3544
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3456
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3613
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3610
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3623
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3611
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3484
+request start time >> Wed Dec  2 04:00:44 2020
+request end time >> Wed Dec  2 04:00:44 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 1662
+!<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3468
+!<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3782
+!<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3819
+!<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3720
+!<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3696
+!<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3828
+!<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3865
+!<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3845
+!<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3919
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3770
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3714
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3580
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3493
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3571
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3692
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3616
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3652
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3697
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3667
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3627
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3727
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3650
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3634
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3674
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3613
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3669
+$<>collection start time >> Wed Dec  2 04:00:44 2020
+collection end timw >> Wed Dec  2 04:00:44 2020
+collection microsecond diff >> 3705
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 1844674$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3565
+request start time >> Wed Dec  2 04:00:45 2020
+request end time >> Wed Dec  2 04:00:45 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 1681
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3429
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3717
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3784
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3817
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3750
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3671
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3768
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3746
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3877
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3709
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3661
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3612
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3564
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3611
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3611
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3492
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3571
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3582
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3605
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3565
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3486
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3500
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3546
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3616
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3522
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3559
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3553
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3510
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3559
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3482
+request start time >> Wed Dec  2 04:00:45 2020
+request end time >> Wed Dec  2 04:00:45 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 1680
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3535
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3745
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3819
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 5073
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3815
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3739
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3690
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3694
+!<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3789
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3482
+$<>collection start time >> Wed Dec  2 04:00:45 2020
+collection end timw >> Wed Dec  2 04:00:45 2020
+collection microsecond diff >> 3593
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3578
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3560
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3886
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3488
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3560
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3525
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3537
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3518
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3524
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3491
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3520
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3505
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3505
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3503
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3506
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3475
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3509
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3494
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3512
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3504
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3464
+request start time >> Wed Dec  2 04:00:46 2020
+request end time >> Wed Dec  2 04:00:46 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 1675
+!<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3477
+!<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3919
+!<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3997
+!<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 4003
+!<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3802
+!<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3594
+!<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3676
+!<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3649
+!<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3653
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3527
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3515
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3511
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3459
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3461
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3478
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3591
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3481
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3562
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3488
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3506
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3527
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3488
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3477
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3470
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3475
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3493
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3505
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3502
+$<>collection start time >> Wed Dec  2 04:00:46 2020
+collection end timw >> Wed Dec  2 04:00:46 2020
+collection microsecond diff >> 3513
+$<>collection start time >> Wed Dec  2 04:00:47 2020
+collection end timw >> Wed Dec  2 04:00:47 2020
+collection microsecond diff >> 1844674request start time >> Wed Dec  2 04:00:47 2020
+request end time >> Wed Dec  2 04:00:47 2020
+request microsecond diff >> 0
+$<>collection start time >> Wed Dec  2 04:00:47 2020
+collection end timw >> Wed Dec  2 04:00:47 2020
+collection microsecond diff >> 1660
+!<>collection start time >> Wed Dec  2 04:00:47 2020
+collection end timw >> Wed Dec  2 04:00:47 2020
+collection microsecond diff >> 3467
