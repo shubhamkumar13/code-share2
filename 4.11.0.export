@@ -1,0 +1,358 @@
+opam-version: "2.0"
+compiler: [
+  "base-bigarray.base"
+  "base-threads.base"
+  "base-unix.base"
+  "ocaml.4.11.0"
+  "ocaml-base-compiler.4.11.0"
+  "ocaml-config.1"
+]
+roots: [
+  "alcotest.1.2.3"
+  "astring.0.8.5"
+  "bheap.2.0.0"
+  "cmdliner.1.0.4"
+  "digestif.1.0.0"
+  "dune.2.7.1"
+  "index.1.2.1"
+  "index-bench.~dev"
+  "irmin.2.2.0"
+  "logs.0.7.0"
+  "lwt.5.3.0"
+  "memtrace.0.1.2"
+  "metrics.0.2.0"
+  "metrics-unix.0.2.0"
+  "mtime.1.2.0"
+  "ocaml-base-compiler.4.11.0"
+  "ocamlgraph.2.0.0"
+  "ppx_deriving_yojson.3.6.1"
+  "ppx_irmin.2.2.0"
+  "ppx_repr.0.1.0"
+  "repr.0.1.0"
+  "repr-bench.0.1.0"
+  "repr-fuzz.0.1.0"
+  "uri.4.0.0"
+  "yojson.1.7.0"
+]
+installed: [
+  "afl-persistent.1.3"
+  "alcotest.1.2.3"
+  "angstrom.0.15.0"
+  "astring.0.8.5"
+  "base-bigarray.base"
+  "base-bytes.base"
+  "base-threads.base"
+  "base-unix.base"
+  "base64.3.4.0"
+  "bechamel.0.1.0"
+  "bheap.2.0.0"
+  "bigarray-compat.1.0.0"
+  "bigstringaf.0.7.0"
+  "biniou.1.2.1"
+  "cmdliner.1.0.4"
+  "conf-gnuplot.0.1"
+  "conf-m4.1"
+  "conf-pkg-config.1.3"
+  "conf-which.1"
+  "cppo.1.6.6"
+  "crowbar.0.2"
+  "csexp.1.3.2"
+  "digestif.1.0.0"
+  "dune.2.7.1"
+  "dune-configurator.2.7.1"
+  "easy-format.1.3.2"
+  "eqaf.0.7"
+  "fmt.0.8.9"
+  "fpath.0.7.3"
+  "index.1.2.1"
+  "index-bench.~dev"
+  "irmin.2.2.0"
+  "jsonm.1.0.1"
+  "logs.0.7.0"
+  "lwt.5.3.0"
+  "memtrace.0.1.2"
+  "metrics.0.2.0"
+  "metrics-unix.0.2.0"
+  "mmap.1.1.0"
+  "mtime.1.2.0"
+  "ocaml.4.11.0"
+  "ocaml-base-compiler.4.11.0"
+  "ocaml-compiler-libs.v0.12.3"
+  "ocaml-config.1"
+  "ocaml-migrate-parsetree.1.8.0"
+  "ocaml-syntax-shims.1.0.0"
+  "ocamlbuild.0.14.0"
+  "ocamlfind.1.8.1"
+  "ocamlgraph.2.0.0"
+  "ocplib-endian.1.1"
+  "ppx_derivers.1.2.1"
+  "ppx_deriving.5.1"
+  "ppx_deriving_yojson.3.6.1"
+  "ppx_irmin.2.2.0"
+  "ppx_repr.0.1.0"
+  "ppxlib.0.15.0"
+  "progress.0.1.1"
+  "re.1.9.0"
+  "repr.0.1.0"
+  "repr-bench.0.1.0"
+  "repr-fuzz.0.1.0"
+  "result.1.5"
+  "semaphore-compat.1.0.0"
+  "seq.base"
+  "sexplib0.v0.14.0"
+  "stdlib-shims.0.1.0"
+  "stringext.1.6.0"
+  "terminal_size.0.1.4"
+  "topkg.1.0.3"
+  "uchar.0.0.2"
+  "uri.4.0.0"
+  "uuidm.0.9.7"
+  "uutf.1.0.2"
+  "yojson.1.7.0"
+]
+pinned: [
+  "index.1.2.1"
+  "index-bench.~dev"
+  "ppx_repr.0.1.0"
+  "repr.0.1.0"
+  "repr-bench.0.1.0"
+  "repr-fuzz.0.1.0"
+]
+package "index" {
+  opam-version: "2.0"
+  version: "1.2.1"
+  synopsis: "A platform-agnostic multi-level index for OCaml"
+  description: """
+Index is a scalable implementation of persistent indices in OCaml.
+
+It takes an arbitrary IO implementation and user-supplied content
+types and supplies a standard key-value interface for persistent
+storage. Index provides instance sharing: each OCaml
+run-time can share a common singleton instance.
+
+Index supports multiple-reader/single-writer access. Concurrent access
+is safely managed using lock files."""
+  maintainer: "Clement Pascutto"
+  authors: [
+    "Craig Ferguson <craig@tarides.com>"
+    "Thomas Gazagnaire <thomas@tarides.com>"
+    "Ioana Cristescu <ioana@tarides.com>"
+    "Clément Pascutto <clement@tarides.com>"
+  ]
+  license: "MIT"
+  homepage: "https://github.com/mirage/index"
+  doc: "https://mirage.github.io/index/"
+  bug-reports: "https://github.com/mirage/index/issues"
+  depends: [
+    "ocaml" {>= "4.08.0"}
+    "dune" {>= "2.7.0"}
+    "repr"
+    "ppx_repr"
+    "fmt"
+    "logs"
+    "mtime" {>= "1.0.0"}
+    "cmdliner"
+    "progress"
+    "alcotest" {with-test}
+    "crowbar" {with-test & >= "0.2"}
+    "re" {with-test}
+    "semaphore-compat"
+  ]
+  build: [
+    ["dune" "subst"] {pinned}
+    ["dune" "build" "-p" name "-j" jobs]
+    ["dune" "runtest" "-p" name] {with-test}
+  ]
+  dev-repo: "git+https://github.com/mirage/index.git"
+  url {
+    src: "git+file:///home/sk/index#master"
+  }
+}
+package "index-bench" {
+  opam-version: "2.0"
+  version: "~dev"
+  synopsis: "Index benchmarking suite"
+  maintainer: "Clement Pascutto"
+  authors: ["Clement Pascutto" "Thomas Gazagnaire" "Ioana Cristescu"]
+  license: "MIT"
+  homepage: "https://github.com/mirage/index"
+  bug-reports: "https://github.com/mirage/index/issues"
+  depends: [
+    "ocaml" {>= "4.03.0"}
+    "cmdliner"
+    "dune" {>= "2.7.0"}
+    "fmt"
+    "index"
+    "metrics"
+    "metrics-unix"
+    "ppx_deriving_yojson"
+    "re"
+    "stdlib-shims"
+    "yojson"
+  ]
+  build: [
+    ["dune" "subst"] {pinned}
+    ["dune" "build" "-p" name "-j" jobs]
+    ["dune" "runtest" "-p" name] {with-test}
+  ]
+  dev-repo: "git+https://github.com/mirage/index.git"
+  url {
+    src: "git+file:///home/sk/index#master"
+  }
+}
+package "ppx_repr" {
+  opam-version: "2.0"
+  version: "0.1.0"
+  synopsis: "PPX deriver for type representations"
+  description: "PPX deriver for type representations"
+  maintainer: "thomas@gazagnaire.org"
+  authors: ["Thomas Gazagnaire" "Craig Ferguson"]
+  license: "ISC"
+  homepage: "https://github.com/mirage/repr"
+  bug-reports: "https://github.com/mirage/repr/issues"
+  depends: [
+    "dune" {>= "2.7"}
+    "repr" {= version}
+    "ppxlib" {>= "0.12.0" & < "0.18.0"}
+    "hex" {with-test}
+    "alcotest" {>= "1.1.0" & with-test}
+    "odoc" {with-doc}
+  ]
+  build: [
+    ["dune" "subst"] {dev}
+    [
+      "dune"
+      "build"
+      "-p"
+      name
+      "-j"
+      jobs
+      "@install"
+      "@runtest" {with-test}
+      "@doc" {with-doc}
+    ]
+  ]
+  dev-repo: "git+https://github.com/mirage/repr.git"
+  url {
+    src: "git+file:///home/sk/repr#main"
+  }
+}
+package "repr" {
+  opam-version: "2.0"
+  version: "0.1.0"
+  synopsis: "Dynamic type representations. Provides no stability guarantee"
+  description: """
+This package defines a library of combinators for building dynamic type
+representations and a set of generic operations over representable types, used
+in the implementation of Irmin and related packages.
+
+It is not yet intended for public consumption and provides no stability
+guarantee."""
+  maintainer: "thomas@gazagnaire.org"
+  authors: ["Thomas Gazagnaire" "Craig Ferguson"]
+  license: "ISC"
+  homepage: "https://github.com/mirage/repr"
+  bug-reports: "https://github.com/mirage/repr/issues"
+  depends: [
+    "dune" {>= "2.7"}
+    "ocaml" {>= "4.08.0"}
+    "fmt" {>= "0.8.0"}
+    "uutf"
+    "jsonm" {>= "1.0.0"}
+    "base64" {>= "2.0.0"}
+    "odoc" {with-doc}
+  ]
+  build: [
+    ["dune" "subst"] {dev}
+    [
+      "dune"
+      "build"
+      "-p"
+      name
+      "-j"
+      jobs
+      "@install"
+      "@runtest" {with-test}
+      "@doc" {with-doc}
+    ]
+  ]
+  dev-repo: "git+https://github.com/mirage/repr.git"
+  url {
+    src: "git+file:///home/sk/repr#main"
+  }
+}
+package "repr-bench" {
+  opam-version: "2.0"
+  version: "0.1.0"
+  synopsis: "Benchmarks for the `repr` package"
+  description: "Benchmarks for the `repr` package"
+  maintainer: "thomas@gazagnaire.org"
+  authors: ["Thomas Gazagnaire" "Craig Ferguson"]
+  license: "ISC"
+  homepage: "https://github.com/mirage/repr"
+  bug-reports: "https://github.com/mirage/repr/issues"
+  depends: [
+    "dune" {>= "2.7"}
+    "repr" {= version}
+    "ppx_repr" {= version}
+    "bechamel"
+    "yojson"
+    "fpath"
+    "ppx_deriving_yojson"
+    "odoc" {with-doc}
+  ]
+  build: [
+    ["dune" "subst"] {dev}
+    [
+      "dune"
+      "build"
+      "-p"
+      name
+      "-j"
+      jobs
+      "@install"
+      "@runtest" {with-test}
+      "@doc" {with-doc}
+    ]
+  ]
+  dev-repo: "git+https://github.com/mirage/repr.git"
+  url {
+    src: "git+file:///home/sk/repr#main"
+  }
+}
+package "repr-fuzz" {
+  opam-version: "2.0"
+  version: "0.1.0"
+  synopsis: "Fuzz tests for the `repr` package"
+  description: "Fuzz tests for the `repr` package"
+  maintainer: "thomas@gazagnaire.org"
+  authors: ["Thomas Gazagnaire" "Craig Ferguson"]
+  license: "ISC"
+  homepage: "https://github.com/mirage/repr"
+  bug-reports: "https://github.com/mirage/repr/issues"
+  depends: [
+    "dune" {>= "2.7"}
+    "repr" {= version}
+    "crowbar" {= "0.2"}
+    "ppxlib" {>= "0.12.0" & < "0.18.0"}
+    "odoc" {with-doc}
+  ]
+  build: [
+    ["dune" "subst"] {dev}
+    [
+      "dune"
+      "build"
+      "-p"
+      name
+      "-j"
+      jobs
+      "@install"
+      "@runtest" {with-test}
+      "@doc" {with-doc}
+    ]
+  ]
+  dev-repo: "git+https://github.com/mirage/repr.git"
+  url {
+    src: "git+file:///home/sk/repr#main"
+  }
+}
