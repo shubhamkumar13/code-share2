@@ -1,0 +1,389 @@
+[1;34m[NOTE][0m Will configure from built-in defaults.
+[33m[WARNING][0m Failed checks on orun package definition from source at file:///home/shubham/sadiq_sandmark/orun:
+  [33mwarning[0m 35: Missing field 'homepage'
+  [33mwarning[0m 36: Missing field 'bug-reports'
+[33m[WARNING][0m Failed checks on rungen package definition from source at file:///home/shubham/sadiq_sandmark/rungen:
+  [33mwarning[0m 35: Missing field 'homepage'
+  [33mwarning[0m 36: Missing field 'bug-reports'
+[1;34m[NOTE][0m Package sexplib0 is already installed (current version is v0.14.0).
+[1;34m[NOTE][0m Package yojson is already installed (current version is 1.7.0).
+[1;34m[NOTE][0m Package dune-configurator is already installed (current version is 2.6.0).
+[1;34m[NOTE][0m Package dune-private-libs is already installed (current version is 2.6.0).
+[31m[ERROR][0m The compilation of frama-c failed at "/home/shubham/sadiq_sandmark/_opam/opam-init/hooks/sandbox.sh build make -j27".
+
+[31m#===[0m [01mERROR[0m [01mwhile compiling frama-c.18.0[0m [31m=======================================#[0m
+[33m#[0m [33mcontext[0m     2.0.6 | linux/x86_64 | ocaml-base-compiler.4.10.0+multicore+new_polling | file:///home/shubham/sadiq_sandmark/dependencies
+[33m#[0m [33mpath[0m        ~/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/.opam-switch/build/frama-c.18.0
+[33m#[0m [33mcommand[0m     ~/sadiq_sandmark/_opam/opam-init/hooks/sandbox.sh build make -j27
+[33m#[0m [33mexit-code[0m   2
+[33m#[0m [33menv-file[0m    ~/sadiq_sandmark/_opam/log/frama-c-29815-fa1600.env
+[33m#[0m [33moutput-file[0m ~/sadiq_sandmark/_opam/log/frama-c-29815-fa1600.out
+[33m### output ###
+[0m[33m# [0m30 | open Cil_types
+[33m# [0m[...]
+[33m# [0mError: Unbound module Cil_typesshare/Makefile.generic:70: recipe for target 'src/libraries/project/state_builder.cmi' failed
+[33m# [0mmake: *** [src/libraries/project/state_builder.cmi] Error 2
+[33m# [0m
+[33m# [0mshare/Makefile.generic:70: recipe for target 'src/kernel_services/ast_data/kernel_function.cmi' failed
+[33m# [0mmake: *** [src/kernel_services/ast_data/kernel_function.cmi] Error 2
+[33m# [0mFile "src/kernel_services/ast_queries/cil.mli", line 51, characters 5-14:
+[33m# [0m51 | open Cil_types
+[33m# [0m          ^^^^^^^^^
+[33m# [0mError: Unbound module Cil_types
+[33m# [0mshare/Makefile.generic:70: recipe for target 'src/kernel_services/ast_queries/cil.cmi' failed
+[33m# [0mmake: *** [src/kernel_services/ast_queries/cil.cmi] Error 2
+
+
+The former state can be restored with:
+    opam switch import "/home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/.opam-switch/backup/state-20210111021533.export"
+        orun LU_decomposition_multicore.12_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../LU_decomposition_multicore.12_2048.orun.bench -- taskset --cpu-list 2-13 ./LU_decomposition_multicore.exe 12 2048 &> /dev/null
+        orun LU_decomposition_multicore.16_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../LU_decomposition_multicore.16_2048.orun.bench -- taskset --cpu-list 2-13,16-27 ./LU_decomposition_multicore.exe 16 2048 &> /dev/null
+        orun LU_decomposition_multicore.1_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../LU_decomposition_multicore.1_2048.orun.bench -- taskset --cpu-list 2-13 ./LU_decomposition_multicore.exe 1 2048 &> /dev/null
+        orun LU_decomposition_multicore.20_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../LU_decomposition_multicore.20_2048.orun.bench -- taskset --cpu-list 2-13,16-27 ./LU_decomposition_multicore.exe 20 2048 &> /dev/null
+        orun LU_decomposition_multicore.24_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../LU_decomposition_multicore.24_2048.orun.bench -- taskset --cpu-list 2-13,16-27 ./LU_decomposition_multicore.exe 24 2048 &> /dev/null
+        orun LU_decomposition_multicore.2_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../LU_decomposition_multicore.2_2048.orun.bench -- taskset --cpu-list 2-13 ./LU_decomposition_multicore.exe 2 2048 &> /dev/null
+        orun LU_decomposition_multicore.4_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../LU_decomposition_multicore.4_2048.orun.bench -- taskset --cpu-list 2-13 ./LU_decomposition_multicore.exe 4 2048 &> /dev/null
+        orun LU_decomposition_multicore.8_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../LU_decomposition_multicore.8_2048.orun.bench -- taskset --cpu-list 2-13 ./LU_decomposition_multicore.exe 8 2048 &> /dev/null
+        orun alloc_multicore.16_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../alloc_multicore.16_1000000.orun.bench -- ./alloc_multicore.exe 16 1000000 &> /dev/null
+        orun alloc_multicore.1_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../alloc_multicore.1_1000000.orun.bench -- ./alloc_multicore.exe 1 1000000 &> /dev/null
+        orun alloc_multicore.2_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../alloc_multicore.2_1000000.orun.bench -- ./alloc_multicore.exe 2 1000000 &> /dev/null
+        orun alloc_multicore.4_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../alloc_multicore.4_1000000.orun.bench -- ./alloc_multicore.exe 4 1000000 &> /dev/null
+        orun alloc_multicore.8_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../alloc_multicore.8_1000000.orun.bench -- ./alloc_multicore.exe 8 1000000 &> /dev/null
+        orun binarytrees5_multicore.12_23.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../binarytrees5_multicore.12_23.orun.bench -- taskset --cpu-list 2-13 ./binarytrees5_multicore.exe 12 23 &> /dev/null
+        orun binarytrees5_multicore.16_23.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../binarytrees5_multicore.16_23.orun.bench -- taskset --cpu-list 2-13,16-27 ./binarytrees5_multicore.exe 16 23 &> /dev/null
+        orun binarytrees5_multicore.1_23.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../binarytrees5_multicore.1_23.orun.bench -- taskset --cpu-list 2-13 ./binarytrees5_multicore.exe 1 23 &> /dev/null
+        orun binarytrees5_multicore.20_23.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../binarytrees5_multicore.20_23.orun.bench -- taskset --cpu-list 2-13,16-27 ./binarytrees5_multicore.exe 20 23 &> /dev/null
+        orun binarytrees5_multicore.24_23.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../binarytrees5_multicore.24_23.orun.bench -- taskset --cpu-list 2-13,16-27 ./binarytrees5_multicore.exe 24 23 &> /dev/null
+        orun binarytrees5_multicore.2_23.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../binarytrees5_multicore.2_23.orun.bench -- taskset --cpu-list 2-13 ./binarytrees5_multicore.exe 2 23 &> /dev/null
+        orun binarytrees5_multicore.4_23.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../binarytrees5_multicore.4_23.orun.bench -- taskset --cpu-list 2-13 ./binarytrees5_multicore.exe 4 23 &> /dev/null
+        orun binarytrees5_multicore.8_23.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../binarytrees5_multicore.8_23.orun.bench -- taskset --cpu-list 2-13 ./binarytrees5_multicore.exe 8 23 &> /dev/null
+        orun evolutionary_algorithm_multicore.12_10000_10000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../evolutionary_algorithm_multicore.12_10000_10000.orun.bench -- taskset --cpu-list 2-13 ./evolutionary_algorithm_multicore.exe 12 10000 10000 &> /dev/null
+        orun evolutionary_algorithm_multicore.16_10000_10000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../evolutionary_algorithm_multicore.16_10000_10000.orun.bench -- taskset --cpu-list 2-13,16-27 ./evolutionary_algorithm_multicore.exe 16 10000 10000 &> /dev/null
+        orun evolutionary_algorithm_multicore.1_10000_10000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../evolutionary_algorithm_multicore.1_10000_10000.orun.bench -- taskset --cpu-list 2-13 ./evolutionary_algorithm_multicore.exe 1 10000 10000 &> /dev/null
+        orun evolutionary_algorithm_multicore.20_10000_10000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../evolutionary_algorithm_multicore.20_10000_10000.orun.bench -- taskset --cpu-list 2-13,16-27 ./evolutionary_algorithm_multicore.exe 20 10000 10000 &> /dev/null
+        orun evolutionary_algorithm_multicore.24_10000_10000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../evolutionary_algorithm_multicore.24_10000_10000.orun.bench -- taskset --cpu-list 2-13,16-27 ./evolutionary_algorithm_multicore.exe 24 10000 10000 &> /dev/null
+        orun evolutionary_algorithm_multicore.2_10000_10000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../evolutionary_algorithm_multicore.2_10000_10000.orun.bench -- taskset --cpu-list 2-13 ./evolutionary_algorithm_multicore.exe 2 10000 10000 &> /dev/null
+        orun evolutionary_algorithm_multicore.4_10000_10000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../evolutionary_algorithm_multicore.4_10000_10000.orun.bench -- taskset --cpu-list 2-13 ./evolutionary_algorithm_multicore.exe 4 10000 10000 &> /dev/null
+        orun evolutionary_algorithm_multicore.8_10000_10000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../evolutionary_algorithm_multicore.8_10000_10000.orun.bench -- taskset --cpu-list 2-13 ./evolutionary_algorithm_multicore.exe 8 10000 10000 &> /dev/null
+        orun floyd_warshall_multicore.12_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../floyd_warshall_multicore.12_1024.orun.bench -- taskset --cpu-list 2-13 ./floyd_warshall_multicore.exe 12 1024 &> /dev/null
+        orun floyd_warshall_multicore.16_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../floyd_warshall_multicore.16_1024.orun.bench -- taskset --cpu-list 2-13,16-27 ./floyd_warshall_multicore.exe 16 1024 &> /dev/null
+        orun floyd_warshall_multicore.1_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../floyd_warshall_multicore.1_1024.orun.bench -- taskset --cpu-list 2-13 ./floyd_warshall_multicore.exe 1 1024 &> /dev/null
+        orun floyd_warshall_multicore.20_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../floyd_warshall_multicore.20_1024.orun.bench -- taskset --cpu-list 2-13,16-27 ./floyd_warshall_multicore.exe 20 1024 &> /dev/null
+        orun floyd_warshall_multicore.24_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../floyd_warshall_multicore.24_1024.orun.bench -- taskset --cpu-list 2-13,16-27 ./floyd_warshall_multicore.exe 24 1024 &> /dev/null
+        orun floyd_warshall_multicore.2_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../floyd_warshall_multicore.2_1024.orun.bench -- taskset --cpu-list 2-13 ./floyd_warshall_multicore.exe 2 1024 &> /dev/null
+        orun floyd_warshall_multicore.4_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../floyd_warshall_multicore.4_1024.orun.bench -- taskset --cpu-list 2-13 ./floyd_warshall_multicore.exe 4 1024 &> /dev/null
+        orun floyd_warshall_multicore.8_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../floyd_warshall_multicore.8_1024.orun.bench -- taskset --cpu-list 2-13 ./floyd_warshall_multicore.exe 8 1024 &> /dev/null
+        orun game_of_life_multicore.12_256.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../game_of_life_multicore.12_256.orun.bench -- taskset --cpu-list 2-13 ./game_of_life_multicore.exe 12 256 &> /dev/null
+        orun game_of_life_multicore.16_256.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../game_of_life_multicore.16_256.orun.bench -- taskset --cpu-list 2-13,16-27 ./game_of_life_multicore.exe 16 256 &> /dev/null
+        orun game_of_life_multicore.1_256.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../game_of_life_multicore.1_256.orun.bench -- taskset --cpu-list 2-13 ./game_of_life_multicore.exe 1 256 &> /dev/null
+        orun game_of_life_multicore.20_256.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../game_of_life_multicore.20_256.orun.bench -- taskset --cpu-list 2-13,16-27 ./game_of_life_multicore.exe 20 256 &> /dev/null
+        orun game_of_life_multicore.24_256.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../game_of_life_multicore.24_256.orun.bench -- taskset --cpu-list 2-13,16-27 ./game_of_life_multicore.exe 24 256 &> /dev/null
+        orun game_of_life_multicore.2_256.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../game_of_life_multicore.2_256.orun.bench -- taskset --cpu-list 2-13 ./game_of_life_multicore.exe 2 256 &> /dev/null
+        orun game_of_life_multicore.4_256.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../game_of_life_multicore.4_256.orun.bench -- taskset --cpu-list 2-13 ./game_of_life_multicore.exe 4 256 &> /dev/null
+        orun game_of_life_multicore.8_256.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../game_of_life_multicore.8_256.orun.bench -- taskset --cpu-list 2-13 ./game_of_life_multicore.exe 8 256 &> /dev/null
+        orun grammatrix_multicore.12_16.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-grammatrix && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../grammatrix_multicore.12_16.orun.bench -- taskset --cpu-list 2-13 ./grammatrix_multicore.exe 12 16 &> /dev/null
+        orun grammatrix_multicore.16_16.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-grammatrix && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../grammatrix_multicore.16_16.orun.bench -- taskset --cpu-list 2-13,16-27 ./grammatrix_multicore.exe 16 16 &> /dev/null
+        orun grammatrix_multicore.1_16.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-grammatrix && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../grammatrix_multicore.1_16.orun.bench -- taskset --cpu-list 2-13 ./grammatrix_multicore.exe 1 16 &> /dev/null
+        orun grammatrix_multicore.20_16.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-grammatrix && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../grammatrix_multicore.20_16.orun.bench -- taskset --cpu-list 2-13,16-27 ./grammatrix_multicore.exe 20 16 &> /dev/null
+        orun grammatrix_multicore.24_16.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-grammatrix && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../grammatrix_multicore.24_16.orun.bench -- taskset --cpu-list 2-13,16-27 ./grammatrix_multicore.exe 24 16 &> /dev/null
+        orun grammatrix_multicore.2_16.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-grammatrix && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../grammatrix_multicore.2_16.orun.bench -- taskset --cpu-list 2-13 ./grammatrix_multicore.exe 2 16 &> /dev/null
+        orun grammatrix_multicore.4_16.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-grammatrix && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../grammatrix_multicore.4_16.orun.bench -- taskset --cpu-list 2-13 ./grammatrix_multicore.exe 4 16 &> /dev/null
+        orun grammatrix_multicore.8_16.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-grammatrix && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../grammatrix_multicore.8_16.orun.bench -- taskset --cpu-list 2-13 ./grammatrix_multicore.exe 8 16 &> /dev/null
+        orun mandelbrot6_multicore.12_16_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../mandelbrot6_multicore.12_16_000.orun.bench -- taskset --cpu-list 2-13 ./mandelbrot6_multicore.exe 12 16_000 &> /dev/null
+        orun mandelbrot6_multicore.16_16_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../mandelbrot6_multicore.16_16_000.orun.bench -- taskset --cpu-list 2-13,16-27 ./mandelbrot6_multicore.exe 16 16_000 &> /dev/null
+        orun mandelbrot6_multicore.1_16_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../mandelbrot6_multicore.1_16_000.orun.bench -- taskset --cpu-list 2-13 ./mandelbrot6_multicore.exe 1 16_000 &> /dev/null
+        orun mandelbrot6_multicore.20_16_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../mandelbrot6_multicore.20_16_000.orun.bench -- taskset --cpu-list 2-13,16-27 ./mandelbrot6_multicore.exe 20 16_000 &> /dev/null
+        orun mandelbrot6_multicore.24_16_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../mandelbrot6_multicore.24_16_000.orun.bench -- taskset --cpu-list 2-13,16-27 ./mandelbrot6_multicore.exe 24 16_000 &> /dev/null
+        orun mandelbrot6_multicore.2_16_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../mandelbrot6_multicore.2_16_000.orun.bench -- taskset --cpu-list 2-13 ./mandelbrot6_multicore.exe 2 16_000 &> /dev/null
+        orun mandelbrot6_multicore.4_16_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../mandelbrot6_multicore.4_16_000.orun.bench -- taskset --cpu-list 2-13 ./mandelbrot6_multicore.exe 4 16_000 &> /dev/null
+        orun mandelbrot6_multicore.8_16_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../mandelbrot6_multicore.8_16_000.orun.bench -- taskset --cpu-list 2-13 ./mandelbrot6_multicore.exe 8 16_000 &> /dev/null
+        orun matrix_multiplication_multicore.12_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_multicore.12_1024.orun.bench -- taskset --cpu-list 2-13 ./matrix_multiplication_multicore.exe 12 1024 &> /dev/null
+        orun matrix_multiplication_multicore.16_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_multicore.16_1024.orun.bench -- taskset --cpu-list 2-13,16-27 ./matrix_multiplication_multicore.exe 16 1024 &> /dev/null
+        orun matrix_multiplication_multicore.1_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_multicore.1_1024.orun.bench -- taskset --cpu-list 2-13 ./matrix_multiplication_multicore.exe 1 1024 &> /dev/null
+        orun matrix_multiplication_multicore.20_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_multicore.20_1024.orun.bench -- taskset --cpu-list 2-13,16-27 ./matrix_multiplication_multicore.exe 20 1024 &> /dev/null
+        orun matrix_multiplication_multicore.24_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_multicore.24_1024.orun.bench -- taskset --cpu-list 2-13,16-27 ./matrix_multiplication_multicore.exe 24 1024 &> /dev/null
+        orun matrix_multiplication_multicore.2_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_multicore.2_1024.orun.bench -- taskset --cpu-list 2-13 ./matrix_multiplication_multicore.exe 2 1024 &> /dev/null
+        orun matrix_multiplication_multicore.4_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_multicore.4_1024.orun.bench -- taskset --cpu-list 2-13 ./matrix_multiplication_multicore.exe 4 1024 &> /dev/null
+        orun matrix_multiplication_multicore.8_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_multicore.8_1024.orun.bench -- taskset --cpu-list 2-13 ./matrix_multiplication_multicore.exe 8 1024 &> /dev/null
+        orun matrix_multiplication_tiling_multicore.16_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_tiling_multicore.16_1024.orun.bench -- taskset --cpu-list 2-13,16-27 ./matrix_multiplication_tiling_multicore.exe 16 1024 &> /dev/null
+        orun matrix_multiplication_tiling_multicore.1_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_tiling_multicore.1_1024.orun.bench -- taskset --cpu-list 2-13 ./matrix_multiplication_tiling_multicore.exe 1 1024 &> /dev/null
+        orun matrix_multiplication_tiling_multicore.2_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_tiling_multicore.2_1024.orun.bench -- taskset --cpu-list 2-13 ./matrix_multiplication_tiling_multicore.exe 2 1024 &> /dev/null
+        orun matrix_multiplication_tiling_multicore.4_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_tiling_multicore.4_1024.orun.bench -- taskset --cpu-list 2-13 ./matrix_multiplication_tiling_multicore.exe 4 1024 &> /dev/null
+        orun matrix_multiplication_tiling_multicore.8_1024.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../matrix_multiplication_tiling_multicore.8_1024.orun.bench -- taskset --cpu-list 2-13 ./matrix_multiplication_tiling_multicore.exe 8 1024 &> /dev/null
+        orun minilight.roomfront.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-minilight/sequential && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../../minilight.roomfront.orun.bench -- taskset --cpu-list 2-13 ./minilight.exe roomfront.ml.txt &> /dev/null
+        orun minilight_multicore.12_roomfront.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-minilight/parallel && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../../minilight_multicore.12_roomfront.orun.bench -- taskset --cpu-list 2-13 ./minilight_multicore.exe 12 roomfront.ml.txt &> /dev/null
+        orun minilight_multicore.16_roomfront.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-minilight/parallel && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../../minilight_multicore.16_roomfront.orun.bench -- taskset --cpu-list 2-13,16-27 ./minilight_multicore.exe 16 roomfront.ml.txt &> /dev/null
+        orun minilight_multicore.1_roomfront.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-minilight/parallel && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../../minilight_multicore.1_roomfront.orun.bench -- taskset --cpu-list 2-13 ./minilight_multicore.exe 1 roomfront.ml.txt &> /dev/null
+        orun minilight_multicore.20_roomfront.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-minilight/parallel && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../../minilight_multicore.20_roomfront.orun.bench -- taskset --cpu-list 2-13,16-27 ./minilight_multicore.exe 20 roomfront.ml.txt &> /dev/null
+        orun minilight_multicore.24_roomfront.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-minilight/parallel && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../../minilight_multicore.24_roomfront.orun.bench -- taskset --cpu-list 2-13,16-27 ./minilight_multicore.exe 24 roomfront.ml.txt &> /dev/null
+        orun minilight_multicore.2_roomfront.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-minilight/parallel && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../../minilight_multicore.2_roomfront.orun.bench -- taskset --cpu-list 2-13 ./minilight_multicore.exe 2 roomfront.ml.txt &> /dev/null
+        orun minilight_multicore.4_roomfront.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-minilight/parallel && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../../minilight_multicore.4_roomfront.orun.bench -- taskset --cpu-list 2-13 ./minilight_multicore.exe 4 roomfront.ml.txt &> /dev/null
+        orun minilight_multicore.8_roomfront.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-minilight/parallel && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../../minilight_multicore.8_roomfront.orun.bench -- taskset --cpu-list 2-13 ./minilight_multicore.exe 8 roomfront.ml.txt &> /dev/null
+        orun mpmc_queue_parallel.10000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-structures && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../mpmc_queue_parallel.10000000.orun.bench -- ./test_queue_parallel.exe 10000000 &> /dev/null
+        orun nbody.512_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../nbody.512_2048.orun.bench -- taskset --cpu-list 2-13 ./nbody.exe 512 2048 &> /dev/null
+        orun nbody_multicore.12_512_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../nbody_multicore.12_512_2048.orun.bench -- taskset --cpu-list 2-13 ./nbody_multicore.exe 12 512 2048 &> /dev/null
+        orun nbody_multicore.16_512_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../nbody_multicore.16_512_2048.orun.bench -- taskset --cpu-list 2-13,16-27 ./nbody_multicore.exe 16 512 2048 &> /dev/null
+        orun nbody_multicore.1_512_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../nbody_multicore.1_512_2048.orun.bench -- taskset --cpu-list 2-13 ./nbody_multicore.exe 1 512 2048 &> /dev/null
+        orun nbody_multicore.20_512_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../nbody_multicore.20_512_2048.orun.bench -- taskset --cpu-list 2-13,16-27 ./nbody_multicore.exe 20 512 2048 &> /dev/null
+        orun nbody_multicore.24_512_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../nbody_multicore.24_512_2048.orun.bench -- taskset --cpu-list 2-13,16-27 ./nbody_multicore.exe 24 512 2048 &> /dev/null
+        orun nbody_multicore.2_512_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../nbody_multicore.2_512_2048.orun.bench -- taskset --cpu-list 2-13 ./nbody_multicore.exe 2 512 2048 &> /dev/null
+        orun nbody_multicore.4_512_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../nbody_multicore.4_512_2048.orun.bench -- taskset --cpu-list 2-13 ./nbody_multicore.exe 4 512 2048 &> /dev/null
+        orun nbody_multicore.8_512_2048.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../nbody_multicore.8_512_2048.orun.bench -- taskset --cpu-list 2-13 ./nbody_multicore.exe 8 512 2048 &> /dev/null
+        orun pingpong_multicore.12_256_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../pingpong_multicore.12_256_1000000.orun.bench -- taskset --cpu-list 2-13 ./pingpong_multicore.exe 12 256 1000000 &> /dev/null
+        orun pingpong_multicore.16_256_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../pingpong_multicore.16_256_1000000.orun.bench -- taskset --cpu-list 2-13,16-27 ./pingpong_multicore.exe 16 256 1000000 &> /dev/null
+        orun pingpong_multicore.1_256_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../pingpong_multicore.1_256_1000000.orun.bench -- taskset --cpu-list 2-13 ./pingpong_multicore.exe 1 256 1000000 &> /dev/null
+        orun pingpong_multicore.20_256_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../pingpong_multicore.20_256_1000000.orun.bench -- taskset --cpu-list 2-13,16-27 ./pingpong_multicore.exe 20 256 1000000 &> /dev/null
+        orun pingpong_multicore.24_256_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../pingpong_multicore.24_256_1000000.orun.bench -- taskset --cpu-list 2-13,16-27 ./pingpong_multicore.exe 24 256 1000000 &> /dev/null
+        orun pingpong_multicore.2_256_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../pingpong_multicore.2_256_1000000.orun.bench -- taskset --cpu-list 2-13 ./pingpong_multicore.exe 2 256 1000000 &> /dev/null
+        orun pingpong_multicore.4_256_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../pingpong_multicore.4_256_1000000.orun.bench -- taskset --cpu-list 2-13 ./pingpong_multicore.exe 4 256 1000000 &> /dev/null
+        orun pingpong_multicore.8_256_1000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/simple-tests && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../pingpong_multicore.8_256_1000000.orun.bench -- taskset --cpu-list 2-13 ./pingpong_multicore.exe 8 256 1000000 &> /dev/null
+        orun quicksort_multicore.12_40_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../quicksort_multicore.12_40_000_000.orun.bench -- taskset --cpu-list 2-13 ./quicksort_multicore.exe 12 40_000_000 &> /dev/null
+        orun quicksort_multicore.16_40_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../quicksort_multicore.16_40_000_000.orun.bench -- taskset --cpu-list 2-13,16-27 ./quicksort_multicore.exe 16 40_000_000 &> /dev/null
+        orun quicksort_multicore.1_40_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../quicksort_multicore.1_40_000_000.orun.bench -- taskset --cpu-list 2-13 ./quicksort_multicore.exe 1 40_000_000 &> /dev/null
+        orun quicksort_multicore.20_40_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../quicksort_multicore.20_40_000_000.orun.bench -- taskset --cpu-list 2-13,16-27 ./quicksort_multicore.exe 20 40_000_000 &> /dev/null
+        orun quicksort_multicore.24_40_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../quicksort_multicore.24_40_000_000.orun.bench -- taskset --cpu-list 2-13,16-27 ./quicksort_multicore.exe 24 40_000_000 &> /dev/null
+        orun quicksort_multicore.2_40_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../quicksort_multicore.2_40_000_000.orun.bench -- taskset --cpu-list 2-13 ./quicksort_multicore.exe 2 40_000_000 &> /dev/null
+        orun quicksort_multicore.4_40_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../quicksort_multicore.4_40_000_000.orun.bench -- taskset --cpu-list 2-13 ./quicksort_multicore.exe 4 40_000_000 &> /dev/null
+        orun quicksort_multicore.8_40_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../quicksort_multicore.8_40_000_000.orun.bench -- taskset --cpu-list 2-13 ./quicksort_multicore.exe 8 40_000_000 &> /dev/null
+        orun spectralnorm2_multicore.12_5_500.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spectralnorm2_multicore.12_5_500.orun.bench -- taskset --cpu-list 2-13 ./spectralnorm2_multicore.exe 12 5_500 &> /dev/null
+        orun spectralnorm2_multicore.16_5_500.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spectralnorm2_multicore.16_5_500.orun.bench -- taskset --cpu-list 2-13,16-27 ./spectralnorm2_multicore.exe 16 5_500 &> /dev/null
+        orun spectralnorm2_multicore.1_5_500.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spectralnorm2_multicore.1_5_500.orun.bench -- taskset --cpu-list 2-13 ./spectralnorm2_multicore.exe 1 5_500 &> /dev/null
+        orun spectralnorm2_multicore.20_5_500.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spectralnorm2_multicore.20_5_500.orun.bench -- taskset --cpu-list 2-13,16-27 ./spectralnorm2_multicore.exe 20 5_500 &> /dev/null
+        orun spectralnorm2_multicore.24_5_500.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spectralnorm2_multicore.24_5_500.orun.bench -- taskset --cpu-list 2-13,16-27 ./spectralnorm2_multicore.exe 24 5_500 &> /dev/null
+        orun spectralnorm2_multicore.2_5_500.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spectralnorm2_multicore.2_5_500.orun.bench -- taskset --cpu-list 2-13 ./spectralnorm2_multicore.exe 2 5_500 &> /dev/null
+        orun spectralnorm2_multicore.4_5_500.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spectralnorm2_multicore.4_5_500.orun.bench -- taskset --cpu-list 2-13 ./spectralnorm2_multicore.exe 4 5_500 &> /dev/null
+        orun spectralnorm2_multicore.8_5_500.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-numerical && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spectralnorm2_multicore.8_5_500.orun.bench -- taskset --cpu-list 2-13 ./spectralnorm2_multicore.exe 8 5_500 &> /dev/null
+        orun spsc_queue_parallel.10000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-structures && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spsc_queue_parallel.10000000.orun.bench -- ./test_spsc_queue_parallel.exe 10000000 &> /dev/null
+        orun spsc_queue_pingpong_parallel.1_10000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-structures && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spsc_queue_pingpong_parallel.1_10000000.orun.bench -- ./test_spsc_queue_pingpong_parallel.exe 1 10000000 &> /dev/null
+        orun spsc_queue_pingpong_parallel.2_10000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-structures && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spsc_queue_pingpong_parallel.2_10000000.orun.bench -- ./test_spsc_queue_pingpong_parallel.exe 2 10000000 &> /dev/null
+        orun spsc_queue_pingpong_parallel.4_10000000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-structures && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../spsc_queue_pingpong_parallel.4_10000000.orun.bench -- ./test_spsc_queue_pingpong_parallel.exe 4 10000000 &> /dev/null
+        orun stack_parallel.100000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-structures && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../stack_parallel.100000.orun.bench -- ./test_stack_parallel.exe 100000 &> /dev/null
+        orun test_bag.10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_bag.10_000_000_50.orun.bench -- ./test_bag.exe 10_000_000 50 &> /dev/null
+        orun test_bag_multicore.12_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_bag_multicore.12_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_bag_multicore.exe 12 10_000_000 50 &> /dev/null
+        orun test_bag_multicore.16_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_bag_multicore.16_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_bag_multicore.exe 16 10_000_000 50 &> /dev/null
+        orun test_bag_multicore.1_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_bag_multicore.1_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_bag_multicore.exe 1 10_000_000 50 &> /dev/null
+        orun test_bag_multicore.20_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_bag_multicore.20_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_bag_multicore.exe 20 10_000_000 50 &> /dev/null
+        orun test_bag_multicore.24_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_bag_multicore.24_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_bag_multicore.exe 24 10_000_000 50 &> /dev/null
+        orun test_bag_multicore.2_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_bag_multicore.2_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_bag_multicore.exe 2 10_000_000 50 &> /dev/null
+        orun test_bag_multicore.4_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_bag_multicore.4_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_bag_multicore.exe 4 10_000_000 50 &> /dev/null
+        orun test_bag_multicore.8_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_bag_multicore.8_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_bag_multicore.exe 8 10_000_000 50 &> /dev/null
+        orun test_decompress_multicore.12_64_1_048_576.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/decompress && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_decompress_multicore.12_64_1_048_576.orun.bench -- taskset --cpu-list 2-13 ./test_decompress_multicore.exe 12 64 1_048_576 &> /dev/null
+        orun test_decompress_multicore.16_64_1_048_576.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/decompress && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_decompress_multicore.16_64_1_048_576.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_decompress_multicore.exe 16 64 1_048_576 &> /dev/null
+        orun test_decompress_multicore.1_64_1_048_576.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/decompress && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_decompress_multicore.1_64_1_048_576.orun.bench -- taskset --cpu-list 2-13 ./test_decompress_multicore.exe 1 64 1_048_576 &> /dev/null
+        orun test_decompress_multicore.20_64_1_048_576.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/decompress && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_decompress_multicore.20_64_1_048_576.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_decompress_multicore.exe 20 64 1_048_576 &> /dev/null
+        orun test_decompress_multicore.24_64_1_048_576.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/decompress && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_decompress_multicore.24_64_1_048_576.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_decompress_multicore.exe 24 64 1_048_576 &> /dev/null
+        orun test_decompress_multicore.2_64_1_048_576.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/decompress && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_decompress_multicore.2_64_1_048_576.orun.bench -- taskset --cpu-list 2-13 ./test_decompress_multicore.exe 2 64 1_048_576 &> /dev/null
+        orun test_decompress_multicore.4_64_1_048_576.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/decompress && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_decompress_multicore.4_64_1_048_576.orun.bench -- taskset --cpu-list 2-13 ./test_decompress_multicore.exe 4 64 1_048_576 &> /dev/null
+        orun test_decompress_multicore.8_64_1_048_576.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/decompress && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_decompress_multicore.8_64_1_048_576.orun.bench -- taskset --cpu-list 2-13 ./test_decompress_multicore.exe 8 64 1_048_576 &> /dev/null
+        orun test_hash.10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_hash.10_000_000_50.orun.bench -- ./test_hash.exe 10_000_000 50 &> /dev/null
+        orun test_hash_multicore.12_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_hash_multicore.12_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_hash_multicore.exe 12 10_000_000 50 &> /dev/null
+        orun test_hash_multicore.16_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_hash_multicore.16_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_hash_multicore.exe 16 10_000_000 50 &> /dev/null
+        orun test_hash_multicore.1_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_hash_multicore.1_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_hash_multicore.exe 1 10_000_000 50 &> /dev/null
+        orun test_hash_multicore.20_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_hash_multicore.20_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_hash_multicore.exe 20 10_000_000 50 &> /dev/null
+        orun test_hash_multicore.24_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_hash_multicore.24_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_hash_multicore.exe 24 10_000_000 50 &> /dev/null
+        orun test_hash_multicore.2_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_hash_multicore.2_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_hash_multicore.exe 2 10_000_000 50 &> /dev/null
+        orun test_hash_multicore.4_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_hash_multicore.4_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_hash_multicore.exe 4 10_000_000 50 &> /dev/null
+        orun test_hash_multicore.8_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_hash_multicore.8_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_hash_multicore.exe 8 10_000_000 50 &> /dev/null
+        orun test_list.10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_list.10_000_000_50.orun.bench -- ./test_list.exe 10_000_000 50 &> /dev/null
+        orun test_list_multicore.12_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_list_multicore.12_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_list_multicore.exe 12 10_000_000 50 &> /dev/null
+        orun test_list_multicore.16_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_list_multicore.16_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_list_multicore.exe 16 10_000_000 50 &> /dev/null
+        orun test_list_multicore.1_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_list_multicore.1_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_list_multicore.exe 1 10_000_000 50 &> /dev/null
+        orun test_list_multicore.20_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_list_multicore.20_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_list_multicore.exe 20 10_000_000 50 &> /dev/null
+        orun test_list_multicore.24_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_list_multicore.24_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_list_multicore.exe 24 10_000_000 50 &> /dev/null
+        orun test_list_multicore.2_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_list_multicore.2_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_list_multicore.exe 2 10_000_000 50 &> /dev/null
+        orun test_list_multicore.4_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_list_multicore.4_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_list_multicore.exe 4 10_000_000 50 &> /dev/null
+        orun test_list_multicore.8_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_list_multicore.8_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_list_multicore.exe 8 10_000_000 50 &> /dev/null
+        orun test_msqueue.10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_msqueue.10_000_000_50.orun.bench -- ./test_msqueue.exe 10_000_000 50 &> /dev/null
+        orun test_msqueue_multicore.12_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_msqueue_multicore.12_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_msqueue_multicore.exe 12 10_000_000 50 &> /dev/null
+        orun test_msqueue_multicore.16_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_msqueue_multicore.16_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_msqueue_multicore.exe 16 10_000_000 50 &> /dev/null
+        orun test_msqueue_multicore.1_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_msqueue_multicore.1_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_msqueue_multicore.exe 1 10_000_000 50 &> /dev/null
+        orun test_msqueue_multicore.20_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_msqueue_multicore.20_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_msqueue_multicore.exe 20 10_000_000 50 &> /dev/null
+        orun test_msqueue_multicore.24_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_msqueue_multicore.24_10_000_000_50.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_msqueue_multicore.exe 24 10_000_000 50 &> /dev/null
+        orun test_msqueue_multicore.2_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_msqueue_multicore.2_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_msqueue_multicore.exe 2 10_000_000 50 &> /dev/null
+        orun test_msqueue_multicore.4_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_msqueue_multicore.4_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_msqueue_multicore.exe 4 10_000_000 50 &> /dev/null
+        orun test_msqueue_multicore.8_10_000_000_50.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_msqueue_multicore.8_10_000_000_50.orun.bench -- taskset --cpu-list 2-13 ./test_msqueue_multicore.exe 8 10_000_000 50 &> /dev/null
+        orun test_wsqueue.10_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 127)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_wsqueue.10_000_000.orun.bench -- ./test_wsqueue.exe 10_000_000 &> /dev/null
+        orun test_wsqueue_multicore.12_10_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_wsqueue_multicore.12_10_000_000.orun.bench -- taskset --cpu-list 2-13 ./test_wsqueue_multicore.exe 12 10_000_000 &> /dev/null
+        orun test_wsqueue_multicore.16_10_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_wsqueue_multicore.16_10_000_000.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_wsqueue_multicore.exe 16 10_000_000 &> /dev/null
+        orun test_wsqueue_multicore.1_10_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_wsqueue_multicore.1_10_000_000.orun.bench -- taskset --cpu-list 2-13 ./test_wsqueue_multicore.exe 1 10_000_000 &> /dev/null
+        orun test_wsqueue_multicore.20_10_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_wsqueue_multicore.20_10_000_000.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_wsqueue_multicore.exe 20 10_000_000 &> /dev/null
+        orun test_wsqueue_multicore.24_10_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_wsqueue_multicore.24_10_000_000.orun.bench -- taskset --cpu-list 2-13,16-27 ./test_wsqueue_multicore.exe 24 10_000_000 &> /dev/null
+        orun test_wsqueue_multicore.2_10_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_wsqueue_multicore.2_10_000_000.orun.bench -- taskset --cpu-list 2-13 ./test_wsqueue_multicore.exe 2 10_000_000 &> /dev/null
+        orun test_wsqueue_multicore.4_10_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_wsqueue_multicore.4_10_000_000.orun.bench -- taskset --cpu-list 2-13 ./test_wsqueue_multicore.exe 4 10_000_000 &> /dev/null
+        orun test_wsqueue_multicore.8_10_000_000.orun.bench [4.10.0+multicore+new_polling_1] (exit 1)
+(cd _build/4.10.0+multicore+new_polling_1/benchmarks/multicore-lockfree && /home/shubham/sadiq_sandmark/_opam/4.10.0+multicore+new_polling/bin/orun -o ../../test_wsqueue_multicore.8_10_000_000.orun.bench -- taskset --cpu-list 2-13 ./test_wsqueue_multicore.exe 8 10_000_000 &> /dev/null
+make: *** [ocaml-versions/4.10.0+multicore+new_polling.bench] Error 1
