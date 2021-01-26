@@ -1,0 +1,53 @@
+{
+  "wrappers": [
+    {
+      "name": "orun",
+      "command": "orun -o %{output} -- taskset --cpu-list 5 %{command}"
+    },
+    {
+      "name": "perfstat",
+      "command": "perf stat -o %{output} -- taskset --cpu-list 5 %{command}"
+    },
+    {
+      "name": "pausetimes_trunk",
+      "command": "bash pausetimes_trunk %{output} taskset --cpu-list 5 %{command}"
+    },
+    {
+      "name": "pausetimes_multicore",
+      "command": "bash pausetimes_multicore %{output} taskset --cpu-list 5 %{command}"
+    }
+  ],
+  "benchmarks": [
+    {
+      "executable": "benchmarks/irmin/irmin_mem_rw.exe",
+      "name": "imrin_mem_rw",
+      "tags": [
+        "1s_10s",
+        "macro_bench",
+        "run_in_ci"
+      ],
+      "runs": [
+        {
+          "params": "10_000 50_000 80 100_000_000"
+        },
+        {
+          "params": "10_000 50_000 20 100_000_000"
+        }
+      ]
+    },
+    {
+      "executable": "benchmarks/irmin/layers.exe",
+      "name": "layers",
+      "tags": [
+        "1s_10s",
+        "macro_bench",
+        "run_in_ci"
+      ],
+      "runs": [
+        {
+          "params": "-n 100"
+        }
+      ]
+    }
+  ]
+}
